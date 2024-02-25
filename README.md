@@ -1,1 +1,1 @@
-Another dummy project based on Udemy VueJS course. Only for learning purposes
+Another dummy project based on Udemy VueJS course. For learning purposes only.
